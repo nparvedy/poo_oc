@@ -1,0 +1,23 @@
+body {
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+header{
+    height:100px;
+    background-color:grey;
+}
+
+header h1, footer h1 {
+    margin:0;
+}
+
+footer{
+    height:100px;
+    background-color:grey;
+}
+
+section{
+    height:700px;
+}
